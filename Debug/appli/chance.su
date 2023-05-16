@@ -1,0 +1,3 @@
+chance.c:16:6:CHANCE_process_ms	4	static
+chance.c:21:6:CHANCE_init	8	static
+chance.c:30:16:CHANCE_pioche	4	static

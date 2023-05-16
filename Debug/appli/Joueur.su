@@ -1,0 +1,12 @@
+joueur.c:24:6:JOUEUR_init	24	static
+joueur.c:46:12:get_pjoueurs	4	static
+joueur.c:51:10:JOUEUR_get_couleur	16	static
+joueur.c:57:9:JOUEUR_get_argent	16	static
+joueur.c:62:6:JOUEUR_add_argent	16	static
+joueur.c:67:6:JOUEUR_set_argent	16	static
+joueur.c:71:9:JOUEUR_get_position	16	static
+joueur.c:76:6:JOUEUR_set_position	16	static
+joueur.c:82:8:JOUEUR_get_enable	16	static
+joueur.c:87:6:JOUEUR_avance	24	static
+joueur.c:97:6:JOUEUR_verif_argent_positif	24	static
+joueur.c:107:6:JOUEUR_affiche_caracteristique	24	static

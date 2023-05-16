@@ -1,0 +1,3 @@
+plateau.c:18:6:PLATEAU_init	24	static
+plateau.c:42:10:PLATEAU_get_pplateau	4	static
+plateau.c:50:8:PLATEAU_get_case	16	static
