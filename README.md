@@ -39,12 +39,12 @@ A chaque tour de jeu, le joueur doit lancer les dés. Pour ce faire, il appuiera
 **Fin du jeu :**
 
   Le jeu s’arrête lorsque qu’il ne reste plus qu’un seul joueur dans la partie, tous les autres ayant été éliminé car ils n’avaient plus d’argent. 
-<br>
+<br><br>
 
 **Travail effectué :**
 
   Le travail était en binôme. Mon collègue s'est occupé de la partie hardware tandis que je me suis concentré sur le software.
-<br>
+<br><br>
 
 **Résultat :**
 
