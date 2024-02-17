@@ -46,5 +46,6 @@ A chaque tour de jeu, le joueur doit lancer les dés. Pour ce faire, il appuiera
   Le travail était en binôme. Mon collègue s'est occupé de la partie hardware tandis que je me suis concentré sur le software.
 <br>
 
-**Résultat :**<br>
+**Résultat :**
+
 Le jeu était fonctionnel, nous avons pu présenter le jeu du début à la fin. Il s'agisait évidemment d'une version simplifiée. 
