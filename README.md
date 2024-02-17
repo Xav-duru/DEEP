@@ -9,7 +9,7 @@ Avec mon collègue, nous avons eu l'idée de refaire le jeu Monopoly à notre fa
 - C
 <br>
 
-**Outils utilsés : **
+**Outils utilsés :**
 - STM32CubeIDE comme logiciel de développement pour les microcontrôleurs STM32
 - Altium designer pour créer la carte électronique 
 <br>
@@ -38,13 +38,13 @@ A chaque tour de jeu, le joueur doit lancer les dés. Pour ce faire, il appuiera
 
 **Fin du jeu :**
 
-Le jeu s’arrête lorsque qu’il ne reste plus qu’un seul joueur dans la partie, tous les autres ayant été éliminé car ils n’avaient plus d’argent. 
+  Le jeu s’arrête lorsque qu’il ne reste plus qu’un seul joueur dans la partie, tous les autres ayant été éliminé car ils n’avaient plus d’argent. 
 <br>
 
 **Travail effectué :**
 
-Le travail était en binôme. Mon collègue s'est occupé de la partie hardware tandis que je me suis concentré sur le software.
+  Le travail était en binôme. Mon collègue s'est occupé de la partie hardware tandis que je me suis concentré sur le software.
 <br>
 
-**Résultat :**
+**Résultat :**<br>
 Le jeu était fonctionnel, nous avons pu présenter le jeu du début à la fin. Il s'agisait évidemment d'une version simplifiée. 
